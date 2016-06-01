@@ -1,7 +1,6 @@
 #Table of Contents
 
 ## Isomorphic Apps
-
 #### Angular-Spring
 
 
