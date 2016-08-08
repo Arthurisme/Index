@@ -8,7 +8,7 @@ This repository start with Spring backend and Angular 2 frontend.
 A full function real app implemented based on afore said starter: 
 This repository start with Spring backend and Angular 2 frontend.  
 ####3: [isomorphic-quickstarter-spring-angular2-ionic2]      
-This project is one part of repository 1. 
+This project is one part of repository 1. To make a new repository for easy to use.
 
 
 
