@@ -11,6 +11,11 @@ This repository start with Spring backend and Angular 2 frontend.
 This project is one part of repository 1. To make a new repository for easy to use.
 
 
+## Angula2 hybrid:
+####1: [SpringbootAngular2View](https://github.com/Arthurisme/SpringbootAngular2View)      
+Using Angular 2 as a view in Spring boot. Updated to Angular 2 rc5. — Edit
+
+
 
 
 
